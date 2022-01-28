@@ -36,5 +36,5 @@ jobs:
           context: .
           file: ./dockerfile.v1
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/fullstackz2_1:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/fullstackz2_3:latest
           
